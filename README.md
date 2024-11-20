@@ -1,4 +1,4 @@
-### PDF Information Extraction Tool with OpenAI API on AWS Lambda
+# PDF Information Extraction Tool with OpenAI API on AWS Lambda
 
 This project provides Python scripts for extracting specific information (e.g., patient details, medicines, and other important data) from PDF documents. It also includes a solution that integrates AWS Lambda and the OpenAI API for extracting structured data about medicines based on a query. The system accepts a query with a medicine name and returns detailed information such as the full brand name, strength, route, drug class, drug category, and manufacturer.
 
